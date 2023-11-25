@@ -1,0 +1,7 @@
+E:\SCG\ConvertLetter\ConvertLetter\bin\Debug\ConvertLetter.exe
+E:\SCG\ConvertLetter\ConvertLetter\bin\Debug\ConvertLetter.pdb
+E:\SCG\ConvertLetter\ConvertLetter\obj\Debug\ConvertLetter.csproj.AssemblyReference.cache
+E:\SCG\ConvertLetter\ConvertLetter\obj\Debug\ConvertLetter.csproj.SuggestedBindingRedirects.cache
+E:\SCG\ConvertLetter\ConvertLetter\obj\Debug\ConvertLetter.csproj.CoreCompileInputs.cache
+E:\SCG\ConvertLetter\ConvertLetter\obj\Debug\ConvertLetter.exe
+E:\SCG\ConvertLetter\ConvertLetter\obj\Debug\ConvertLetter.pdb
