@@ -31,7 +31,7 @@ namespace ConvertLetter
                 Directory.CreateDirectory(appPath + "en");
             
             path = $"{appPath}en/global.ini";
-            File.WriteAllText(path, content, Encoding.Default);
+            File.WriteAllText(path, content, new UTF8Encoding(true));
         }
     }
 }
